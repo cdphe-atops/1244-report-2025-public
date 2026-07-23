@@ -3,7 +3,7 @@
 This repository hosts data summaries of data collected in 2025 by the Colorado Air Toxics Trends Stations network. The Colorado Department of Public Health and Environment established the Colorado Air Toxics Trends Stations monitoring network in 2024 to greatly expand its air monitoring program for toxic air contaminants, or air toxics, in compliance with the Public Protections from Toxic Air Contaminants Act of 2022 (HB22-1244).
 
 ## Data Processing and Validation
-Data presented herein have been extensively validated in accordance with EPA standards presented in this technical assistance document. All data were harmonized to µg/m<sup>3</sup> using conversion equations and data below the method detection limit were substituted. These substitutions fall into two cases:
+Data presented herein have been extensively validated in accordance with EPA standards presented in this [technical assistance document](https://www.epa.gov/system/files/documents/2022-08/NATTS-TAD-Revision-4-Final-July-2022-508.pdf). All data were harmonized to µg/m<sup>3</sup> using conversion equations and data below the method detection limit were substituted. These substitutions fall into two cases:
 
 1. **Where the compound was not detected:** A zero was substituted for these values (to avoid biasing summary statistics high).
 2. **When the compound was detected but below the laboratory’s detection limit:** The value of half of the detection limit was substituted. Since the value is somewhere between zero and the detection limit, this approach essentially biases the results by a known amount.
