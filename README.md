@@ -23,6 +23,7 @@ Simply click the link to the method group you would like to review, then summary
 
 **Note 1: Scientific Notation**  
 Data displayed in the summary statistics table are in scientific notation. Scientific notation is a shorthand to be able to display data that have a wide range of values from high to very small. This method involves two parts, the number in the first part and then the power of 10. The first part tells us the number and then the power of 10 tells us which way and how many decimal places to move the decimal point.  
+
 *Example: 7,500 in scientific notation would be 7.5 x 10<sup>3</sup>.*
 
 **Note 2: Raw Data and Reports**  
